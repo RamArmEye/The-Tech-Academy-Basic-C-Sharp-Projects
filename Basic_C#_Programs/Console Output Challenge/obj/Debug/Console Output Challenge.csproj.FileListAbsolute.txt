@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\bin\Debug\Console Output Challenge.exe.config
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\bin\Debug\Console Output Challenge.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\bin\Debug\Console Output Challenge.pdb
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\obj\Debug\Console Output Challenge.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\obj\Debug\Console Output Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\obj\Debug\Console Output Challenge.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console Output Challenge\obj\Debug\Console Output Challenge.pdb
