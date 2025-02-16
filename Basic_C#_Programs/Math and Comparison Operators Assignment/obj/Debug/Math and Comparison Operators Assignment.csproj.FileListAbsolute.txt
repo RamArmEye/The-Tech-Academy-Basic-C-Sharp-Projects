@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\bin\Debug\Math and Comparison Operators Assignment.exe.config
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\bin\Debug\Math and Comparison Operators Assignment.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\bin\Debug\Math and Comparison Operators Assignment.pdb
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\obj\Debug\Math and Comparison Operators Assignment.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\obj\Debug\Math and Comparison Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\obj\Debug\Math and Comparison Operators Assignment.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Math and Comparison Operators Assignment\obj\Debug\Math and Comparison Operators Assignment.pdb

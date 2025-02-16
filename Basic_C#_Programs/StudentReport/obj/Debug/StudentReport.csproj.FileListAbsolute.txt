@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\bin\Debug\StudentReport.exe.config
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\bin\Debug\StudentReport.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\bin\Debug\StudentReport.pdb
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\obj\Debug\StudentReport.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\obj\Debug\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\obj\Debug\StudentReport.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\StudentReport\obj\Debug\StudentReport.pdb

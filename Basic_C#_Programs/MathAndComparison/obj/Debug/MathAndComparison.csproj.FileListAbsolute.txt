@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\bin\Debug\MathAndComparison.exe.config
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\bin\Debug\MathAndComparison.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\bin\Debug\MathAndComparison.pdb
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\obj\Debug\MathAndComparison.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\obj\Debug\MathAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\obj\Debug\MathAndComparison.exe
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\MathAndComparison\obj\Debug\MathAndComparison.pdb

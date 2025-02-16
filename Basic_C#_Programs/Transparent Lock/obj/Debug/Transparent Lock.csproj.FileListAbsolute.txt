@@ -1,0 +1,2 @@
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Transparent Lock\obj\Debug\Transparent Lock.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Desktop\Basic_C#_Programs\Transparent Lock\obj\Debug\Transparent Lock.csproj.CoreCompileInputs.cache
