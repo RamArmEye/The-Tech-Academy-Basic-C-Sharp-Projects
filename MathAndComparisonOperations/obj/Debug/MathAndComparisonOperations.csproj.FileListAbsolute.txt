@@ -1,7 +1,0 @@
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.exe.config
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.exe
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.pdb
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.csproj.AssemblyReference.cache
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.csproj.CoreCompileInputs.cache
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.exe
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.pdb
