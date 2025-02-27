@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|c:\\users\\ramusiup\\documents\\myrepository\\the-tech-academy-basic-c-sharp-projects\\basic_c#_programs\\c# .netframep2\\twenty one\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|c:\\users\\ramusiup\\documents\\myrepository\\the-tech-academy-basic-c-sharp-projects\\basic_c#_programs\\c# .netframep2\\twenty one\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|Twenty One.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T10:21:56.683Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T08:25:00.106Z",
               "IsPinned": true,
@@ -78,8 +77,7 @@
               "RelativeToolTip": "deck.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:38:43.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T11:38:43.613Z"
             }
           ]
         }
