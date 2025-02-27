@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\bin\Debug\Method Assignment.exe.config
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\bin\Debug\Method Assignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\bin\Debug\Method Assignment.pdb
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\obj\Debug\Method Assignment.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\obj\Debug\Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\obj\Debug\Method Assignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Method Assignment\obj\Debug\Method Assignment.pdb
