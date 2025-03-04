@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\bin\Debug\OperatorsAssignmentSubmission.exe.config
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\bin\Debug\OperatorsAssignmentSubmission.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\bin\Debug\OperatorsAssignmentSubmission.pdb
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\obj\Debug\OperatorsAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\obj\Debug\OperatorsAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\obj\Debug\OperatorsAssignmentSubmission.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\OperatorsAssignmentSubmission\obj\Debug\OperatorsAssignmentSubmission.pdb
