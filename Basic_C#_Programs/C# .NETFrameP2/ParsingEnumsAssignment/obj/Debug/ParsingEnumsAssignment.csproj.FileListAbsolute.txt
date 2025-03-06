@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb
