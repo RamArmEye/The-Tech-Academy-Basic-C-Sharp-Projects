@@ -6,31 +6,24 @@ using System.Threading.Tasks;
 
 namespace Twenty_One
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Hearts", "Diamonds", "Spades", "Clubs" };
-            List<string> Faces = new List<string>() { "Ace", "2", "3", "4", "5", "6", "7", "8",
-                "9", "10", "Jack", "Queen", "King" 
-            };
-            
-            foreach (string suit in Suits)
+
+            for (int i = 0; i < 13; i++)
             {
-                //foreach (string face in Faces)
-                //{
-                //    Card card = new Card();
-                //    card.Suit = suit;
-                //    card.Face = face;
-                //    Cards.Add(card);
-                    
-                //}
+                for (int j = 0; j < 4; j++)
+                {
+                    Card card = new Card();
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);
+                }
             }
-
-
-
-        } public List<Card> Cards { get; set; }
+        } 
+        public List<Card> Cards { get; set; }
 
         public  void Shuffle(int times = 1)
         {

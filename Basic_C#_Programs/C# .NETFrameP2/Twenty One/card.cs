@@ -9,13 +9,29 @@ namespace Twenty_One
     public class Card
     {
         public Suit Suit { get; set; }
-        public string Face { get; set; }
+        public Face Face { get; set; }
     }
     public enum Suit
     {
-        Clubs = 0,
-        Diamonds = 10,
-        Hearts = 12,
-        Spades =15
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades 
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King ,
+        Ace 
     }
 }
