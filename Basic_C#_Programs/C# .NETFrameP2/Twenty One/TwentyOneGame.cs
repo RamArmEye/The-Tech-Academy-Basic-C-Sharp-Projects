@@ -40,16 +40,75 @@ namespace Twenty_One
                 {
                     Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
-                    if (i == 1);
-                    { 
-                        ////
+                    if (i == 1)
+                    {
+                        bool blackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
+                        if (blackJack)
+                        {
+                            Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);
+                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
+                            return;
+                        }
                     }
 
                 }
+                Console.Write("Dealer: ");
+                Dealer.Deal(Dealer.Hand);
+                if (i == 1)
+                {
+                    bool blackJack = TwentyOneRules.CheckForBlackJack(Dealer.Hand);
+                    if (blackJack)
+                    {
+                        Console.WriteLine("Dealer has Blackjack! Everyone loses!");
+                        foreach (KeyValuePair<Player, int> entry in Bets)
+                        {
+                            Dealer.Balance += entry.Value;
+                        }
+
+                    }
+                }
             }
+            foreach (Player player in Players)
+            {
+                while (!player.Stay)
+                {
+                    Console.WriteLine("Your cards are: ");
+                    foreach (Card card in player.Hand)
+                    {
+                        Console.Write("{0} ", card.ToString());
+                    }
+                    Console.WriteLine("\n\nHit or Stay?");
+                    string answer = Console.ReadLine().ToLower();
+                    if (answer == "stay")
+                    {
+                        player.Stay = true;
+                        break;
+                    }
+                    else if (answer == "hit")
+                    {
+                        Dealer.Deal(player.Hand);
+                    }
+                    bool busted = TwentyOneRules.IsBusted(player.Hand);
+                    if (busted)
+                    { Dealer.Balance += Bets[player];
+                        Console.WriteLine("{0} Busted! You lost your bet of {1}. Your balance is now {2}", player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("Do you want to play again?");
+                        answer = Console.ReadLine().ToLower();
+                        if (answer == "yes" || answer == "yeah")
+                        {
+                            player.IsActivelyPlaying = true;                           
+                        }
+                        else
+                        {
+                            player.IsActivelyPlaying = false;                           
+                        }
+                    }
+                }
+
+            }
+            Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
+            Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
         }
-
-
             public override void ListPlayers()
         {
             Console.WriteLine("21 Players:");
@@ -62,7 +121,7 @@ namespace Twenty_One
         }
 
 
-        }
+        
 
         public override void ListPlayers()
         {

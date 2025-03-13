@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,7 +25,7 @@ namespace Twenty_One
           [Face.King] = 10,
           [Face.Ace] = 1
       };
-        public static int[] GetAllPossibleHandValues(List<Card> Hand)
+        private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
@@ -35,17 +36,31 @@ namespace Twenty_One
             {
                     return result;
             }
+            for (int i = 1; i < result.Length; i++)
+            {
+                value += (i * 10);
+                result[i] = value;
+            }
+            return result;  
         }
 
         public static bool CheckForBlackJack(List<Card> hand)
-        {
-            if (hand.Count == 2 && hand[0].Face == Face.Ace && hand[1].Face == Face.Ace)
-            {
-                return true;
+            {            
+                int[] possibleValues = GetAllPossibleHandValues(hand);
+                int value = possibleValues.Max();
+                if (value == 21) return true;
+                else return false;
             }
-            return false;
-        }
 
-    };
+            public static bool IsBusted(List<Card> hand)
+            {
+                int value = GetAllPossibleHandValues(hand).Min();
+                if (value > 21) return true;
+                else return false;
+
+            }
+        public static ShouldDealerStay(List<Card>)///////////////////////////////////////////
+
+    }
     
 }
