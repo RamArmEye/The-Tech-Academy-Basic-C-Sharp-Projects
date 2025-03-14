@@ -21,6 +21,7 @@ namespace Twenty_One
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
             foreach (Player player in Players)
             {
@@ -64,6 +65,7 @@ namespace Twenty_One
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
 
                     }
                 }
@@ -90,17 +92,19 @@ namespace Twenty_One
                     }
                     bool busted = TwentyOneRules.IsBusted(player.Hand);
                     if (busted)
-                    { Dealer.Balance += Bets[player];
+                    {
+                        Dealer.Balance += Bets[player];
                         Console.WriteLine("{0} Busted! You lost your bet of {1}. Your balance is now {2}", player.Name, Bets[player], player.Balance);
                         Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
                         if (answer == "yes" || answer == "yeah")
                         {
-                            player.IsActivelyPlaying = true;                           
+                            player.IsActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
-                            player.IsActivelyPlaying = false;                           
+                            player.IsActivelyPlaying = false;
                         }
                     }
                 }
@@ -108,20 +112,61 @@ namespace Twenty_One
             }
             Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
             Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
-        }
-            public override void ListPlayers()
-        {
-            Console.WriteLine("21 Players:");
-            base.ListPlayers();
-        }
+            while (!Dealer.Stay && !Dealer.isBusted)
+            {
+                Console.WriteLine("Dealer is hitting...");
+                Dealer.Deal(Dealer.Hand);
+                Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
+                Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
+            }
+            if (Dealer.Stay)
+            {
+                Console.WriteLine("Dealer is staying.");
+            }
+            if (Dealer.isBusted)
+            {
+                Console.WriteLine("Dealer Busted!");
+                foreach (KeyValuePair<Player, int> entry in Bets)
+                {
+                    Console.WriteLine("{0} won {1}!", entry.Key.Name, entry.Value);
+                    Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2);
+                    Dealer.Balance -= entry.Value;
+                }
+                return;
+            }
+            foreach (Player player in Players)
+            {
+                bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
+                if (playerWon == null)
+                {
+                    Console.WriteLine("Push! No one wins.");
+                    player.Balance += Bets[player];
 
-        public void WalkAway(Player player)
-        {
-            throw new NotImplementedException();
+                }
+                else if (playerWon == true)
+                {
+                    Console.WriteLine("{0} won {1}!", player.Name, Bets[player]);
+                    player.Balance += (Bets[player] * 2);
+                    Dealer.Balance -= Bets[player];
+                }
+                else
+                {
+                    Console.WriteLine("Dealer wins {0}!", Bets[player]);
+                    Dealer.Balance += Bets[player];
+                }
+                Console.WriteLine("Play again?");
+                string answer = Console.ReadLine().ToLower();
+                if (answer == "yes" || answer == "yeah")
+                {
+                    player.IsActivelyPlaying = true;
+                }
+                else
+                {
+                    player.IsActivelyPlaying = false;
+                }
+            }
+
         }
-
-
-        
 
         public override void ListPlayers()
         {

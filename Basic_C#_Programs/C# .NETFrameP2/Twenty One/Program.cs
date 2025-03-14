@@ -21,8 +21,8 @@ namespace Twenty_One
                 Player player = new Player(playerName, bank);
                 Game game = new TwentyOneGame();
                 game += player;
-                player.isActivelyPlaying = true;
-                while (player.isActivelyPlaying && player.Balance > 0)
+                player.IsActivelyPlaying = true; 
+                while (player.IsActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
                 }
