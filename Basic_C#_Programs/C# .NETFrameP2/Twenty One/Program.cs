@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Twenty_One
 {
@@ -10,6 +11,7 @@ namespace Twenty_One
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -25,6 +27,7 @@ namespace Twenty_One
                 while (player.IsActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
+                    
                 }
 
                 game -= player;

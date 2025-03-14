@@ -105,6 +105,7 @@ namespace Twenty_One
                         else
                         {
                             player.IsActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
