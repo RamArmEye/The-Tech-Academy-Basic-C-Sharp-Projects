@@ -1,7 +1,0 @@
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\obj\Debug\Twenty One.csproj.AssemblyReference.cache
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\obj\Debug\Twenty One.csproj.CoreCompileInputs.cache
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\bin\Debug\Twenty One.exe.config
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\bin\Debug\Twenty One.exe
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\bin\Debug\Twenty One.pdb
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\obj\Debug\Twenty One.exe
-C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Twenty One\obj\Debug\Twenty One.pdb
