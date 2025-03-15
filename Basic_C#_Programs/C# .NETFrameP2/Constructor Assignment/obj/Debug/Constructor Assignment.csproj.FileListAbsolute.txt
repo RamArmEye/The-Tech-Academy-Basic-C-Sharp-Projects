@@ -1,0 +1,7 @@
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\obj\Debug\Constructor Assignment.csproj.AssemblyReference.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\obj\Debug\Constructor Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\bin\Debug\Constructor Assignment.exe.config
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\bin\Debug\Constructor Assignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\bin\Debug\Constructor Assignment.pdb
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\obj\Debug\Constructor Assignment.exe
+C:\Users\Ramusiup\Documents\myRepository\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\C# .NETFrameP2\Constructor Assignment\obj\Debug\Constructor Assignment.pdb
