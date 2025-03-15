@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|TwentyOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE77D22D-B344-49C8-9A26-ED6A06E6D37F}|..\\Casino\\Casino.csproj|c:\\users\\ramusiup\\documents\\myrepository\\the-tech-academy-basic-c-sharp-projects\\basic_c#_programs\\c# .netframep2\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77D22D-B344-49C8-9A26-ED6A06E6D37F}|..\\Casino\\Casino.csproj|c:\\users\\ramusiup\\documents\\myrepository\\the-tech-academy-basic-c-sharp-projects\\basic_c#_programs\\c# .netframep2\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|TwentyOne.csproj|C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6D3A609C-98D5-490F-91D5-06A7365BF5BC}|TwentyOne.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -27,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,19 +54,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\Player.cs",
-              "RelativeDocumentMoniker": "..\\Casino\\Player.cs",
-              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\Player.cs",
-              "RelativeToolTip": "..\\Casino\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\FraudException.cs",
+              "RelativeToolTip": "..\\Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T18:51:26.002Z",
+              "WhenOpened": "2025-03-15T23:31:04.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "..\\Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:01:34.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MinimumRecommendedRules.ruleset",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\MinimumRecommendedRules.ruleset",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\MinimumRecommendedRules.ruleset",
@@ -77,14 +96,27 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T17:09:50.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Casino\\Player.cs",
+              "RelativeToolTip": "..\\Casino\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:51:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -97,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TwentyOne",
               "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\C# .NETFrameP2\\Twenty One\\TwentyOne.csproj",
               "RelativeDocumentMoniker": "TwentyOne.csproj",
